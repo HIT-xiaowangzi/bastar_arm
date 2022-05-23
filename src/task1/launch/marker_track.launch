@@ -1,0 +1,19 @@
+<!--
+marker_track.launch: ROS Launch file to track AR marker for robust kinect and baxter calibration.
+Requirements: ar_track_alvar installed and kinect2_bridge up and running
+Author: Nishanth Koganti
+Date: 2016/6/15
+-->
+
+<launch>
+    <!-- define args -->
+
+    <!-- marker tracking node -->
+
+    <!-- marker tracking using marker_track.py -->
+    <node pkg="task1" type="myCalibration.py" name="myCalibration" output="screen" >
+    </node>
+
+    <!-- play trajectory during tracking -->
+    <node pkg="baxter_examples" type="joint_position_file_playback.py" name="play_trajectory" args="-f $(find task1)/marker_trajectory" />
+</launch>

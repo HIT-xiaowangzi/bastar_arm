@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" GENERATION_OPTIONS="-DCATKIN_DEVEL_PREFIX:PATH=/home/hit/ros_ws/devel" GENERATION_DIR="$USER_HOME$/ros_ws/build " />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a6b704a3-f4dc-4fb6-8494-1aef49a9416c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectId" id="1jdLdUDd1MnRQpWfNtXvrWibENF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/ros_ws/src/disk_detect/src" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/image" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/include/wrc_hit_lib" />
+      <recent name="$PROJECT_DIR$/include" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6b704a3-f4dc-4fb6-8494-1aef49a9416c" name="Default Changelist" comment="" />
+      <created>1604129109886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604129109886</updated>
+      <workItem from="1604129111045" duration="312000" />
+      <workItem from="1604130206697" duration="2534000" />
+      <workItem from="1604135531124" duration="4619000" />
+      <workItem from="1604144933761" duration="2226000" />
+      <workItem from="1604281486412" duration="372000" />
+      <workItem from="1604281872012" duration="823000" />
+      <workItem from="1604282976077" duration="752000" />
+      <workItem from="1604283901589" duration="60000" />
+      <workItem from="1604285626658" duration="15900000" />
+      <workItem from="1604366266726" duration="2853000" />
+      <workItem from="1604369373099" duration="7566000" />
+      <workItem from="1604384076106" duration="55000" />
+      <workItem from="1604384181857" duration="37000" />
+      <workItem from="1604384259542" duration="18558000" />
+      <workItem from="1604451502094" duration="2912000" />
+      <workItem from="1604454424119" duration="26000" />
+      <workItem from="1604454474228" duration="16000" />
+      <workItem from="1604454515465" duration="2189000" />
+      <workItem from="1604487114868" duration="10801000" />
+      <workItem from="1604536976457" duration="31000000" />
+      <workItem from="1604626066251" duration="18059000" />
+      <workItem from="1604664654169" duration="630000" />
+      <workItem from="1604665333020" duration="4810000" />
+      <workItem from="1604711136362" duration="1000" />
+      <workItem from="1604711351696" duration="21788000" />
+      <workItem from="1604883832756" duration="19827000" />
+      <workItem from="1605097703837" duration="1658000" />
+      <workItem from="1605099643817" duration="10035000" />
+      <workItem from="1605109857212" duration="420000" />
+      <workItem from="1605143130814" duration="979000" />
+      <workItem from="1605144128162" duration="20009000" />
+      <workItem from="1605183783495" duration="204000" />
+      <workItem from="1605184008174" duration="4860000" />
+      <workItem from="1605229830656" duration="465000" />
+      <workItem from="1605230325530" duration="2237000" />
+      <workItem from="1605235070331" duration="257000" />
+      <workItem from="1605235453742" duration="2000" />
+      <workItem from="1605235463282" duration="92000" />
+      <workItem from="1605235644006" duration="5037000" />
+      <workItem from="1605253076048" duration="11625000" />
+      <workItem from="1605280525061" duration="3263000" />
+      <workItem from="1605317292925" duration="16322000" />
+      <workItem from="1605343884880" duration="390000" />
+      <workItem from="1605344355227" duration="10412000" />
+      <workItem from="1605429547285" duration="615000" />
+      <workItem from="1605452790849" duration="3871000" />
+      <workItem from="1605509350206" duration="695000" />
+      <workItem from="1605510078103" duration="813000" />
+      <workItem from="1605511564343" duration="5762000" />
+      <workItem from="1605574329564" duration="3139000" />
+      <workItem from="1605582333692" duration="1806000" />
+      <workItem from="1605592543110" duration="515000" />
+      <workItem from="1605594261544" duration="20588000" />
+      <workItem from="1605660881583" duration="32000" />
+      <workItem from="1605660943340" duration="181000" />
+      <workItem from="1605661204033" duration="193000" />
+      <workItem from="1605661410984" duration="888000" />
+      <workItem from="1605663510905" duration="9704000" />
+      <workItem from="1605681621048" duration="18138000" />
+      <workItem from="1605748445471" duration="13167000" />
+      <workItem from="1605768878133" duration="4614000" />
+      <workItem from="1605774324598" duration="229000" />
+      <workItem from="1605774765084" duration="2887000" />
+      <workItem from="1605787731693" duration="8978000" />
+      <workItem from="1605796791993" duration="2041000" />
+      <workItem from="1605798906498" duration="2126000" />
+      <workItem from="1605833647082" duration="924000" />
+      <workItem from="1605834579468" duration="236000" />
+      <workItem from="1605835158283" duration="7205000" />
+      <workItem from="1605852309633" duration="5133000" />
+      <workItem from="1605857470871" duration="12087000" />
+      <workItem from="1605924191614" duration="25000" />
+      <workItem from="1605924256134" duration="392000" />
+      <workItem from="1605924706516" duration="473000" />
+      <workItem from="1605925851889" duration="18627000" />
+      <workItem from="1605960398155" duration="220000" />
+      <workItem from="1605960640264" duration="3000" />
+      <workItem from="1605960651147" duration="5627000" />
+      <workItem from="1606021232749" duration="13889000" />
+      <workItem from="1606100597660" duration="2255000" />
+      <workItem from="1606107293746" duration="5402000" />
+      <workItem from="1606116521242" duration="9214000" />
+      <workItem from="1606140139665" duration="2442000" />
+      <workItem from="1606179584018" duration="4450000" />
+      <workItem from="1606185030306" duration="7532000" />
+      <workItem from="1606201238941" duration="2000" />
+      <workItem from="1606201248562" duration="123000" />
+      <workItem from="1606201400940" duration="58000" />
+      <workItem from="1606201593096" duration="15331000" />
+      <workItem from="1606265277190" duration="1049000" />
+      <workItem from="1606266333727" duration="4750000" />
+      <workItem from="1606271138738" duration="23614000" />
+      <workItem from="1606351695665" duration="2160000" />
+      <workItem from="1606353881300" duration="33070000" />
+      <workItem from="1606438302964" duration="2102000" />
+      <workItem from="1606441110836" duration="24942000" />
+      <workItem from="1606561441903" duration="851000" />
+      <workItem from="1606562641132" duration="33000" />
+      <workItem from="1606562677990" duration="276000" />
+      <workItem from="1606562991773" duration="5000" />
+      <workItem from="1606563006435" duration="358000" />
+      <workItem from="1606563398815" duration="2240000" />
+      <workItem from="1606566233834" duration="13000" />
+      <workItem from="1606566363172" duration="1668000" />
+      <workItem from="1606568541158" duration="38000" />
+      <workItem from="1606568584684" duration="2372000" />
+      <workItem from="1606576586154" duration="1146000" />
+      <workItem from="1606580078980" duration="34000" />
+      <workItem from="1606580119375" duration="56000" />
+      <workItem from="1606701273684" duration="2000" />
+      <workItem from="1606702344610" duration="3599000" />
+      <workItem from="1606720592653" duration="8554000" />
+      <workItem from="1606735501495" duration="35000" />
+      <workItem from="1606735546383" duration="952000" />
+      <workItem from="1606737048187" duration="12000" />
+      <workItem from="1606737106617" duration="3520000" />
+      <workItem from="1606741092300" duration="16968000" />
+      <workItem from="1606763216414" duration="3997000" />
+      <workItem from="1606801387700" duration="6639000" />
+      <workItem from="1606810115339" duration="18473000" />
+      <workItem from="1606830671831" duration="8926000" />
+      <workItem from="1606916268170" duration="426000" />
+      <workItem from="1606916726650" duration="1738000" />
+      <workItem from="1606919544672" duration="10444000" />
+      <workItem from="1606932665809" duration="1410000" />
+      <workItem from="1606961809824" duration="726000" />
+      <workItem from="1606962971407" duration="6204000" />
+      <workItem from="1606980285414" duration="6608000" />
+      <workItem from="1606990878944" duration="13000" />
+      <workItem from="1606990917952" duration="6000" />
+      <workItem from="1606991017546" duration="156000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="625" y="220" width="732" height="635" key="#Inspections" timestamp="1606269078399">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="625" y="220" width="732" height="635" key="#Inspections/65.24.1855.1056@65.24.1855.1056" timestamp="1606269078399" />
+    <state x="730" y="288" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605592842206">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="730" y="288" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1605592842206" />
+    <state x="879" y="275" key="#xdebugger.XInspectDialog" timestamp="1605665422584">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="879" y="275" key="#xdebugger.XInspectDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1605665422584" />
+    <state width="566" height="506" key="DebuggerActiveHint" timestamp="1606483983647">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="566" height="506" key="DebuggerActiveHint/65.24.1855.1056@65.24.1855.1056" timestamp="1606483983647" />
+    <state x="780" y="297" width="424" height="482" key="FileChooserDialogImpl" timestamp="1606733437660">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="780" y="297" width="424" height="482" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1606733437660" />
+    <state width="1809" height="265" key="GridCell.Tab.0.bottom" timestamp="1606971419149">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="265" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1606971419149" />
+    <state width="1809" height="265" key="GridCell.Tab.0.center" timestamp="1606971419149">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="265" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1606971419149" />
+    <state width="1809" height="265" key="GridCell.Tab.0.left" timestamp="1606971419148">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="265" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1606971419148" />
+    <state width="1809" height="265" key="GridCell.Tab.0.right" timestamp="1606971419149">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="265" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1606971419149" />
+    <state width="1809" height="265" key="GridCell.Tab.1.bottom" timestamp="1606971419150">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="265" key="GridCell.Tab.1.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1606971419150" />
+    <state width="1809" height="265" key="GridCell.Tab.1.center" timestamp="1606971419149">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="265" key="GridCell.Tab.1.center/65.24.1855.1056@65.24.1855.1056" timestamp="1606971419149" />
+    <state width="1809" height="265" key="GridCell.Tab.1.left" timestamp="1606971419149">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="265" key="GridCell.Tab.1.left/65.24.1855.1056@65.24.1855.1056" timestamp="1606971419149" />
+    <state width="1809" height="265" key="GridCell.Tab.1.right" timestamp="1606971419150">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="265" key="GridCell.Tab.1.right/65.24.1855.1056@65.24.1855.1056" timestamp="1606971419150" />
+    <state x="209" y="89" key="SettingsEditor" timestamp="1606563421139">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="209" y="89" key="SettingsEditor/65.24.1855.1056@65.24.1855.1056" timestamp="1606563421139" />
+    <state x="564" y="140" width="470" height="637" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1606810347587">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="564" y="140" width="470" height="637" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/65.24.1855.1056@65.24.1855.1056" timestamp="1606810347587" />
+    <state x="591" y="59" width="1478" height="718" key="dock-window-1" timestamp="1604456033171">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="591" y="59" width="1478" height="718" key="dock-window-1/65.24.1855.1056@65.24.1855.1056" timestamp="1604456033171" />
+    <state x="655" y="246" key="run.anything.popup" timestamp="1605755295856">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="655" y="246" key="run.anything.popup/65.24.1855.1056@65.24.1855.1056" timestamp="1605755295856" />
+    <state x="655" y="236" width="672" height="678" key="search.everywhere.popup" timestamp="1606266322039">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="655" y="236" width="672" height="678" key="search.everywhere.popup/65.24.1855.1056@65.24.1855.1056" timestamp="1606266322039" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="tarJnt" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
