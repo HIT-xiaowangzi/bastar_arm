@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<launch>
+  
+
+  <node pkg="task1" type="server" name="task1_server" output="screen">
+  </node>
+  
+  <node pkg="task1" type="main" name="task1_main" output="screen">
+  </node>
+
+  <node pkg="task1" type="left_hand_camera.py" name="task1_left_hand_camera" output="screen">
+  </node>
+  
+  <node pkg="task1" type="state_machine" name="task1_state_machine" output="screen">
+  </node>
+
+</launch>
